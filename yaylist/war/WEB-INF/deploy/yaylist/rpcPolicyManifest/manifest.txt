@@ -1,0 +1,3 @@
+# Module yaylist
+# RPC service class, partial path of RPC policy file
+com.yaylist.poc.client.GreetingService, A3DC72D681A0576F9614A799B0A4F42D.gwt.rpc

@@ -1,0 +1,2 @@
+serviceClass: com.yaylist.poc.client.GreetingService
+path: A3DC72D681A0576F9614A799B0A4F42D.gwt.rpc
